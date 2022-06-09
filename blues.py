@@ -1,5 +1,6 @@
 """
 https://www.instagram.com/p/CdNP0Lut_TA/
+@tobistaerk
 """
 from PIL import Image, ImageDraw
 
